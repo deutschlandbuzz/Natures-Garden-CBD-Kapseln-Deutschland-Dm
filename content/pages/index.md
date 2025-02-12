@@ -73,7 +73,9 @@ sections:
     subtitle: Die Vorteile von Natures Garden CBD Kapseln
     items:
       - type: FeaturedItem
-        title: ''
+        title: >-
+          Natures Garden CBD Kapseln bieten eine Vielzahl von Vorteilen für
+          Körper und Geist:
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
