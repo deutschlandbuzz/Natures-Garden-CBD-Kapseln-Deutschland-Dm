@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Natures Garden CBD Kapseln Deutschland
 slug: /
 sections:
   - type: GenericSection
