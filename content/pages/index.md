@@ -1,5 +1,5 @@
 ---
-title: Natures Garden CBD Kapseln Deutschland
+title: Die Vorteile von Natures Garden CBD Kapseln
 slug: /
 sections:
   - type: GenericSection
