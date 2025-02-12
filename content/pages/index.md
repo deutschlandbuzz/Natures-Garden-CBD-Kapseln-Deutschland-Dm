@@ -31,7 +31,7 @@ sections:
     actions:
       - label: Kaufen
         altText: ''
-        url: /
+        url: 'https://naturesgardencbdkapseln.de/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
