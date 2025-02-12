@@ -29,7 +29,7 @@ sections:
 
       [Jetzt bestellen und profitieren](https://naturesgardencbdkapseln.de/)
     actions:
-      - label: Get started
+      - label: Kaufen
         altText: ''
         url: /
         showIcon: false
