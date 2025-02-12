@@ -39,7 +39,8 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/36922140_web1_M1-BKN20240719-Nature_s-Garden-CBD-Gummies-Teaser.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
