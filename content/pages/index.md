@@ -78,10 +78,7 @@ sections:
           Körper und Geist:
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "*   **Natürliche Unterstützung:**\_CBD interagiert mit dem körpereigenen Endocannabinoid-System (ECS), das eine Schlüsselrolle bei der Regulierung von Schlaf, Stimmung und Schmerzwahrnehmung spielt. Studien haben gezeigt, dass CBD dazu beitragen kann, das Gleichgewicht im Körper wiederherzustellen und das allgemeine Wohlbefinden zu verbessern.\n\n*   **Einfache Anwendung:**\_Die Kapseln sind einfach einzunehmen und bieten eine präzise Dosierung. Im Vergleich zu CBD-Ölen, die unter die Zunge getropft werden müssen, sind Kapseln besonders benutzerfreundlich.\n\n*   **Hochwertige Inhaltsstoffe:**\_Hergestellt aus zertifiziertem EU-Hanf, frei von Pestiziden und Schwermetallen. Die schonende Extraktion gewährleistet, dass alle wertvollen Pflanzenstoffe erhalten bleiben.\n\n*   **Keine psychoaktive Wirkung:**\_Enthält weniger als 0,2 % THC, sodass keine berauschende Wirkung auftritt. Sie können also sicher sein, dass Sie sich nach der Einnahme klar und fokussiert fühlen.\n\n*   **Vielfältige Anwendungsmöglichkeiten:**\_Ideal zur Linderung von Stress, Förderung des Schlafs und Unterstützung der Regeneration. Viele Nutzer berichten auch von einer Verbesserung der geistigen Klarheit und Konzentration.\n\n[Jetzt bestellen und profitieren](https://naturesgardencbdkapseln.de/)\n\n\n"
         image:
           type: ImageBlock
           url: /images/Natures-Garden-CBD-Capsules.png
